@@ -1,0 +1,39 @@
+@media (max-width: 960px) {
+  .container {
+    width: 700px;
+  }
+}
+@media (max-width: 720px) {
+  .container {
+    width: 500px;
+  }
+}
+@media (max-width: 540px) {
+  .container {
+    width: 300px;
+  }
+}
+
+.container{
+  margin: 0px auto;
+  width: 900px;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 20px;
+
+  h1{
+    margin-bottom: 10px;
+  font-family: "Roboto", system-ui;
+  }
+
+  h2{
+    text-align: center;
+  }
+
+  p{
+    margin-bottom: 25px;
+    font-family: "Nunito", sans-serif;
+  }
+}

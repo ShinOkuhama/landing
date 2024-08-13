@@ -1,0 +1,8 @@
+.banner{
+  background-image: linear-gradient(rgba(0, 0, 0, 0.3),
+  rgba(0, 0, 0, 0.3)), url(https://www.macquarie.com/au/en/insights/are-we-turning-a-corner-on-the-humanoid-robot-age.thumb.800.480.png?ck=1695556233);
+  background-size: cover;
+  background-position: center;
+  height: 700px;
+  color:white;
+}
